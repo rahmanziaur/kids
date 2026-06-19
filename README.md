@@ -12,7 +12,7 @@ Scan the QR code or click the link below to open the example project directly in
 
 **Project:** [https://arcade.makecode.com/S21431-99886-00500-09210](https://arcade.makecode.com/S21431-99886-00500-09210)
 
-<img src="[https://raw.githubusercontent.com/rahmanziaur/kids/main/download.gif](https://github.com/rahmanziaur/kids/blob/master/download.gif)" alt="QR code linking to the MakeCode Arcade project" width="200" />
+<img src="https://raw.githubusercontent.com/rahmanziaur/kids/main/download.gif" alt="QR code linking to the MakeCode Arcade project" width="200" />
 
 ---
 
