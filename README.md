@@ -20,7 +20,7 @@ Scan the QR code or click the link below to open the example project directly in
 
 A quick look at the MakeCode Arcade editor — blocks workspace on one side, simulator on the other:
 
-<img src="https://raw.githubusercontent.com/rahmanziaur/kids/master/makecode1.jpg" alt="MakeCode Arcade editor showing the blocks workspace and simulator" width="600" />
+<img src="https://raw.githubusercontent.com/rahmanziaur/kids/master/makecode1.jpg" alt="MakeCode Arcade editor showing the blocks workspace and simulator" width="900" />
 
 ---
 
